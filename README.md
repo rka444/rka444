@@ -8,4 +8,4 @@
 
 
 
-[linkedin]: 
+[linkedin]: https://www.linkedin.com/in/ryankallen4784/
